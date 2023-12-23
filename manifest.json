@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Dlive Auto Chest",
+  "version": "0.1",
+  "author": "spacefrog",
+  "description": "Auto clicks the chest",
+  "icons": {
+    "48": "icons/frogdlive.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.dlive.tv/*"],
+      "js": ["autochest.js"]
+    }
+	],
+
+	"browser_action": {
+		"default_icon": "icons/dlive-48.png",
+		"default_title": "Dlive Auto Chest"
+	},
+
+  "permissions": [
+		"activeTab",
+		"tabs",
+		"webRequest"
+  ]
+
+}
