@@ -1,4 +1,4 @@
-## purpose
+## PURPOSE
 
 This Extension / Add-On / Plugin is for use on Dlive. It simulates the click on the Chest when it
 
@@ -6,7 +6,7 @@ pops up.
 
 -----------------------------------------------------------------------------------------
 
-## info
+## INFO
 
 This Browser extension is only for the Firefox Browser so far.
 
@@ -16,9 +16,9 @@ I might or might not publish it in their respective extension stores.
 
 -----------------------------------------------------------------------------------------
 
-## installation
+## INSTALLATION AS TEMPORARY EXTENSION
 
-This Firefox extension only works in debug mode so far.
+As long as this plugin is not listed on Mozilla, it is only available as temporary debug extension.
 
 To run it go to "Add on and Themes" to manage your Extensions.
 
@@ -36,7 +36,7 @@ To disable it simply remove it.
 
 -----------------------------------------------------------------------------------------
 
-## source / files
+## SOURCE / FILES
 
 The source-code is the file autochest.js.
 
