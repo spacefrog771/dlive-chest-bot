@@ -12,15 +12,21 @@ This Browser extension is only for the Firefox Browser so far.
 
 A google - chrome Version might be available in the future.
 
-I might or might not publish it in their respective extension stores.
+-----------------------------------------------------------------------------------------
+
+## INSTALLATION
+
+go to
+
+https://addons.mozilla.org/en-US/firefox/addon/dlive-chest-bot/
+
+and click "Add to Firefox"
 
 -----------------------------------------------------------------------------------------
 
-## INSTALLATION AS TEMPORARY EXTENSION
+## INSTALLATION AS TEMPORARY EXTENSION FROM THIS REPOSITORY
 
-As long as this plugin is not listed on Mozilla, it is only available as temporary debug extension.
-
-To run it go to "Add on and Themes" to manage your Extensions.
+Go to "Add on and Themes" to manage your Extensions.
 
 Select "Debug Add-Ons" => "Load Temporary Add On", then select the file with the .xpi extension.
 
