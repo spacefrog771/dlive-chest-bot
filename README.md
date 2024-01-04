@@ -18,7 +18,7 @@ A google - chrome Version might be available in the future.
 
 go to
 
-https://addons.mozilla.org/en-US/firefox/addon/dlive-chest-bot/
+https://addons.mozilla.org/en-US/firefox/addon/dlive-chest-bot/](https://addons.mozilla.org/en-US/firefox/addon/dlive-chest-collector/
 
 and click "Add to Firefox"
 
